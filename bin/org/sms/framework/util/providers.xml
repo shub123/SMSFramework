@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<providerList>
+	<provider id="ATT">
+		<content-type-list>
+			<content-type>sms</content-type>
+			<content-type>mms</content-type>
+		</content-type-list>
+		<gateway-domain>txt.att.net</gateway-domain>
+	</provider>
+	<provider id="Verizon">
+		<content-type-list>
+			<content-type>sms</content-type>
+			<content-type>mms</content-type>
+		</content-type-list>
+		<gateway-domain>vtext.com</gateway-domain>
+	</provider>
+	<provider id="TMobile">
+		<content-type-list>
+			<content-type>sms</content-type>
+			<content-type>mms</content-type>
+		</content-type-list>
+		<gateway-domain>tmomail.net</gateway-domain>
+	</provider>
+	<provider id="Pinger">
+		<content-type-list>
+			<content-type>sms</content-type>
+			<content-type>mms</content-type>
+		</content-type-list>
+		<gateway-domain>mobile.pinger.com</gateway-domain>
+	</provider>
+	<provider id="Sprint">
+		<content-type-list>
+			<content-type>sms</content-type>
+			<content-type>mms</content-type>
+		</content-type-list>
+		<gateway-domain>page.nextel.com</gateway-domain>
+	</provider>
+	<provider id="Cricket">
+		<content-type-list>
+			<content-type>sms</content-type>
+			<content-type>mms</content-type>
+		</content-type-list>
+		<gateway-domain>sms.cricketwireless.net</gateway-domain>
+	</provider>
+</providerList>
