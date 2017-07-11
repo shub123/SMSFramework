@@ -259,5 +259,9 @@ public class SmsUtil {
 
 		return mimeMsg;
 	}
+	
+	public void hello(){
+		
+	}
 
 }
