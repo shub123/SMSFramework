@@ -22,14 +22,13 @@ Utility to send SMS to a mobile number
 
  the cell provider list is encoded in providers.xml file. Following providers and their codes  are valid-
  
- PROVIDER                        CODE
- ------------------------------------------- 
- 
- AT & T                          ATT
- Verizon Wireless                Verizon
- T Mobile                        TMobile
- Pinger                          Pinger
- Sprint                          Sprint
- Cricket Wireless                Cricket
+|  PROVIDER           |   CODE               | 
+| --------------------|----------------------|
+| AT & T              |              ATT     |
+| Verizon Wireless    |              Verizon |
+| T Mobile            |              TMobile |
+|Pinger               |              Pinger  |
+| Sprint              |              Sprint  |
+| Cricket Wireless    |              Cricket |
 
    
